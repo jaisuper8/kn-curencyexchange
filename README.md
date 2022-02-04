@@ -1,1 +1,1 @@
-# kn-curencyexchange
+# kn-currencyexchange-api
